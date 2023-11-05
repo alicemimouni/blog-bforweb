@@ -1,6 +1,9 @@
  # BLOG BFORWEB
+ 
+ [![Cliquez pour voir le site en ligne](https://example.com/button_image.png)](https://blog.bforweb.fr)
 
-![crud-php-moto-mvc](https://github.com/alicemimouni/crud-moto-mvc/assets/82211729/26951265-c735-4b5f-843d-bd6a3b665a0f)
+
+![blog-site-bforweb](https://github.com/alicemimouni/blog-bforweb/assets/82211729/acc08568-b8d6-4424-a00f-f427b43ed5bf)
 
 ## Présentation
 
@@ -12,9 +15,15 @@ Ce blog contient également une **interface d'administration** permettant la ges
 Côté front-end, j'utilise le préprocesseur **Sass**, il me permet de mieux organiser mon CSS, je l'ai installé à l'aide du gestionnaire de package **npm**.
 J'ai choisi d'utiliser le framework **Symfony** pour réaliser ce projet. J'ai créé les templates en utilisant le moteur de template **twig**. J'ai également créé un formulaire de recherche d'article par mot clé.
 
+![formulaire-de-recherche](https://github.com/alicemimouni/blog-bforweb/assets/82211729/238e85d6-0379-493a-b1ce-9822390a2beb)
+
+J'ai réalisé une **interface d'administration** afin de gérer la création et l'édition des articles, on peut également gérer les médias, ainsi que les comptes utilisateurs.L'accès à cette interface est réservée aux utilisateurs ayant un rôle défini, ceux-ci doivent se connecter pour accéder au tableau de bord. Pour cela j'ai utilisé le bundle **EasyAdmin 4** puisque j'utilise **Symfony 6**.
+
+![interface-administration](https://github.com/alicemimouni/blog-bforweb/assets/82211729/2d171f33-af13-412f-a198-12ea82f9c112)
+
 ## Conclusion
 
-Cette application créée dans le cadre d'une évaluation m'a permis de monter en compétence en PHP et également de savoir gérer le temps puisque je disposais de quelques heures pour le réaliser.
+Ce projet m'a permis d'appronfondir mes connaissances du framework Symfony. J'ai pu découvrir EasyAdminBundle qui est vraiment très utile. À l'avenir, je prévois d'apporter des améliorations à ce projet, notamment en ajoutant la possibilité de laisser des commentaires et en améliorant le tableau de bord.
 
 
 
