@@ -1,6 +1,6 @@
  # BLOG BFORWEB
  
-[Voir le projet en ligne](https://github.com/alicemimouni/blog-bforweb/assets/82211729/4efed0b9-8761-442c-b6f9-39f0361f1de6)](https://www.bforweb.fr)
+[![Voir le projet en ligne](https://github.com/alicemimouni/blog-bforweb/assets/82211729/4efed0b9-8761-442c-b6f9-39f0361f1de6)](https://www.bforweb.fr)
 
 ![blog-site-bforweb](https://github.com/alicemimouni/blog-bforweb/assets/82211729/acc08568-b8d6-4424-a00f-f427b43ed5bf)
 
