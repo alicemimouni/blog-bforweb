@@ -1,6 +1,6 @@
  # BLOG BFORWEB
  
-<span style="color:blue">[VOIR LE PROJET EN LIGNE](https://blog.bforweb.fr)</span>
+<span style="color: red font-size: 2rem">[VOIR LE PROJET EN LIGNE](https://blog.bforweb.fr)</span>
 
 ![blog-site-bforweb](https://github.com/alicemimouni/blog-bforweb/assets/82211729/acc08568-b8d6-4424-a00f-f427b43ed5bf)
 
