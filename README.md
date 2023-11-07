@@ -19,7 +19,7 @@ J'ai choisi d'utiliser le framework **Symfony** pour réaliser ce projet. J'ai c
 J'ai réalisé une **interface d'administration** afin de gérer la création et l'édition des articles, on peut également gérer les médias, ainsi que les comptes utilisateurs.L'accès à cette interface est réservée aux utilisateurs ayant un rôle défini, ceux-ci doivent se connecter pour accéder au tableau de bord. Pour cela j'ai utilisé le bundle **EasyAdmin 4** puisque j'utilise **Symfony 6**.
 
 ![interface-administration](https://github.com/alicemimouni/blog-bforweb/assets/82211729/2d171f33-af13-412f-a198-12ea82f9c112)
-
+[Voir une démo en vidéo de l'interface d'administration](https://youtu.be/ap-jZuURoIo)
 ## Conclusion
 
 Ce projet m'a permis d'appronfondir mes connaissances du framework Symfony. J'ai pu découvrir EasyAdminBundle qui est vraiment très utile. À l'avenir, je prévois d'apporter des améliorations à ce projet, notamment en ajoutant la possibilité de laisser des commentaires et en améliorant le tableau de bord.
